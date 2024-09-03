@@ -1,5 +1,5 @@
 # hello-world-
-"This repository is for practicing the GitHub Flow."
+
 "This repository is for practicing how to creat a branch in github."
 steps involve to create a branch are:
 1. Click the Code tab of your hello-world repository.
